@@ -1,2 +1,2 @@
 # Test2
-Testing not empty checkout
+Testing not empty checkout.
